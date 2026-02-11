@@ -1,0 +1,26 @@
+/* div img */
+#img {
+    position: relative;
+    width: 200px;
+
+    img {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+    }
+}
+
+/* img */
+#ligth_off {
+    padding-left: 31px;
+}
+
+#ligth_on {
+    display: none;
+}
+
+
+#btn {
+    margin-left: 85px;
+}
